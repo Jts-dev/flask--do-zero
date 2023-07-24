@@ -2,7 +2,7 @@
 
 instance/
 
-flask/__pycache__/
+flaskr/__pycache__/
 
 
 *.pyc
