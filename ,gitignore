@@ -3,3 +3,6 @@
 instance/
 
 flask/__pycache__/
+
+
+*.pyc
